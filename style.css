@@ -1,0 +1,83 @@
+/* You have to write CSS code here */
+body{
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(5, 28, 49);
+    height: 45vw;
+}
+
+ul{
+    margin-left: 61vw;
+    position: absolute;
+    top: 8%;
+}
+li{
+    display: inline-block;
+    text-decoration: none;
+}
+ 
+li a{
+    text-decoration: none;
+    color: white;
+    margin-right: 1.7vw;
+    font-size: 1.4vw;
+    font-family: 'Poppins', sans-serif;
+}
+.logo img{
+    display: inline-block;
+    position: absolute;
+    top: 10%;
+    left: 5.4vw;
+    width: 11vw;
+}
+
+.firstdiv img {
+    opacity: 0.3;
+    width: 99.8vw;
+    height: 45vw;
+    text-align: center;
+}
+.firstdiv{
+    text-align: center;
+    height: 45vw;
+}
+
+.p{
+    color: white;
+    position: relative;
+    top: -33vw;
+    font-size: 5vw;
+    font-family: 'Poppins', sans-serif;
+}
+.p1{
+    color: white;
+    position: relative;
+    top: -32vw;
+    padding-left: 22vw;
+    padding-right: 24vw;
+    font-size: 1.1vw;
+    font-family: 'Poppins', sans-serif;
+}
+.p2{
+    color: white;
+    position: relative;
+    top: -30vw;
+    left: 40vw;
+    border: 2px solid #9e9e9e;
+    width: fit-content;
+    text-align: center;
+    color: white;
+    padding: 1vw;
+    font-family: 'Poppins', sans-serif;
+    border-style: ridge;
+    font-size: 1.3vw;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+a:hover{
+    color: #9e9e9e;
+}
